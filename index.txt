@@ -24,6 +24,11 @@ merge1 - windows
 ****************************
 >>>>>>> origin/master
 ****************************
+<<<<<<< HEAD
 user A
 rebase1 - windows
+=======
+user B
+rebase2 - linux
+>>>>>>> rebase 2 demo
 ****************************
