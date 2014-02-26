@@ -1,0 +1,3 @@
+user A
+initial portion of code
+****************************
