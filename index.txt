@@ -11,6 +11,15 @@ window 1
 user A
 window 2
 ****************************
+
+-- example of fetch and merge --
+
+<<<<<<< HEAD
 user B
 merge2 - linux
 ****************************
+=======
+user A
+merge1 - windows
+****************************
+>>>>>>> origin/master
