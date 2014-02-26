@@ -1,6 +1,8 @@
 user A
 initial portion of code
 ****************************
+user A
+demo 1
 user B
 demo 2
 ****************************
