@@ -6,6 +6,11 @@ demo 1
 user B
 demo 2
 ****************************
+<<<<<<< HEAD
 user B
 window 1
+=======
+user A
+window 2
+>>>>>>> window 2
 ****************************
