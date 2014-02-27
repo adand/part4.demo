@@ -24,6 +24,9 @@ merge1 - windows
 ****************************
 >>>>>>> origin/master
 ****************************
+
+-- example of fetch and rebase --
+
 <<<<<<< HEAD
 user A
 rebase1 - windows
